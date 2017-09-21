@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SSM" />
         <module name="ssm-frame" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SSM" target="1.8" />
       <module name="ssm-frame" target="1.8" />
       <module name="ssmframe" target="1.5" />
     </bytecodeTargetLevel>

@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="ssm-frame:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/ssm_frame_war_exploded</output-path>
+  <artifact type="exploded-war" name="SSM:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSM_war_exploded</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ssm-frame" />
+          <element id="module-output" name="SSM" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.5.0" />
@@ -35,7 +35,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.3.5.RELEASE" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="ssm-frame/web/Web" />
+      <element id="javaee-facet-resources" facet="SSM/web/Web" />
     </root>
   </artifact>
 </component>

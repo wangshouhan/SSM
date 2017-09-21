@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ssmframe/ssm-frame.iml" filepath="$PROJECT_DIR$/../ssmframe/ssm-frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
+      <module fileurl="file://F:\yuanxing\ssmframe\ssm-frame.iml" filepath="F:\yuanxing\ssmframe\ssm-frame.iml" />
     </modules>
   </component>
 </project>
